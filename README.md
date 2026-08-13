@@ -8,7 +8,7 @@
 
 <img src="./assets/section-01.svg" alt="01 Hello" width="100%" />
 
-I'm Spencer a developer and self-hosting enthusiast making useful and less useful thing to pollute my homelab with.
+I'm Spencer a developer and self-hosting enthusiast making useful and less useful things to pollute my homelab with.
 
 Right now I'm also figuring out how agents and "agentic" solutions can become capable infrastructure components instead of another disposable demo. 
 
@@ -51,10 +51,10 @@ I'm also deep in the **Kubernetes + CNCF** ecosystem, running real services for 
 <img src="./assets/section-04.svg" alt="04 Projects" width="100%" />
 
 - **[Aimtrix](https://github.com/spencerrung/aimtrix)** — a self-hostable Matrix client built around real interoperability, privacy-conscious UX, and the chat features people actually expect.
-- **[breathe](https://breathe.alucard.dev)** — a private, beautiful paced-breathing guide for therapist-client work, built with a glowing Rust/WASM particle system.
+- **[Netboot your Pi's!](https://github.com/spencerrung/rpi-netboot)** — A NFS and TFTP based way to take your pi's from blank SD card to fully bootstrapped.
+- **[breathe](https://breathe.alucard.dev)** — a beautiful paced-breathing guide for therapist-client work, built with a glowing Rust/WASM particle system.
 - **[therapyhours.net](https://therapyhours.net)** — an app for therapists tracking the supervised hours that lead to licensure.
-- **homelab-k8s** — the GitOps repo for my homelab.
-- **[alucard.dev](https://alucard.dev)** — my little corner of the web: projects, experiments, and the general transmission.
+- **[alucard.dev](https://alucard.dev)** — my little web page.
 
 <img src="./assets/section-05.svg" alt="05 Say hi" width="100%" />
 
