@@ -1,5 +1,5 @@
 <svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
-  <title id="title">Spencer Rung — software, systems, stardust</title>
+  <title id="title">Spencer Rung — software, systems, self-hosted</title>
   <desc id="description">A dark retro-futurist header with cyan, pink, and lime details.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse"><stop stop-color="#12071F"/><stop offset=".48" stop-color="#1B0A2E"/><stop offset="1" stop-color="#0A1730"/></linearGradient>
@@ -17,7 +17,7 @@
   <g stroke="#A6FF00" stroke-width="2" stroke-linecap="round" filter="url(#soft-glow)"><path d="M814 81v18m-9-9h18"/><path d="M1063 183v16m-8-8h16"/><path d="M928 48v12m-6-6h12"/></g>
   <path d="M78 57h7v-7h4v7h7v4h-7v7h-4v-7h-7z" fill="#FF3EC8" filter="url(#soft-glow)"/>
   <text x="80" y="124" fill="url(#type)" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="58" font-weight="900" letter-spacing="-2">SPENCER RUNG</text>
-  <text x="84" y="158" fill="#D7F0F7" font-family="monospace" font-size="15" letter-spacing="2.8">SOFTWARE  /  SYSTEMS  /  STARDUST</text>
+  <text x="84" y="158" fill="#D7F0F7" font-family="monospace" font-size="15" letter-spacing="2.2">SOFTWARE  /  SYSTEMS  /  SELF-HOSTED</text>
   <rect x="82" y="183" width="389" height="31" rx="4" fill="#26113E" stroke="#FF3EC8" stroke-opacity=".7"/>
   <circle cx="99" cy="198.5" r="4" fill="#A6FF00"/>
   <text x="112" y="203" fill="#FFF6A9" font-family="monospace" font-size="12" letter-spacing="1.2">SELF-HOSTED BY DEFAULT</text>

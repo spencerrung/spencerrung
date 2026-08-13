@@ -6,13 +6,13 @@
   <a href="https://alucard.dev">alucard.dev</a> &nbsp;✦&nbsp; building in public &nbsp;✦&nbsp; self-hosted by default
 </p>
 
-## <sub><sup>01</sup></sub> ✦ `hello, internet_`
+<img src="./assets/section-01.svg" alt="01 Hello, internet" width="100%" />
 
 I'm Spencer — a full-stack developer and self-hosting enthusiast making useful, human-scale things for the web. I like the place where polished software, resilient infrastructure, and care for the people using it overlap.
 
 Right now I'm especially into practical **agentic systems**: figuring out how agents can become capable collaborators instead of another disposable demo. I'm also deep in the **Kubernetes + CNCF** ecosystem, running real services for friends and family from a Raspberry Pi k3s homelab.
 
-## <sub><sup>02</sup></sub> ◈ `currently transmitting`
+<img src="./assets/section-02.svg" alt="02 Currently transmitting" width="100%" />
 
 | signal | what that means |
 | :-- | :-- |
@@ -21,7 +21,7 @@ Right now I'm especially into practical **agentic systems**: figuring out how ag
 | `software for humans` | therapy tools, calm little web experiences, and other projects that earn their place in someone's day |
 | `rust + wasm` | making vivid browser experiences with framework-free TypeScript and Rust-powered physics |
 
-## <sub><sup>03</sup></sub> ✧ `the stack in my backpack`
+<img src="./assets/section-03.svg" alt="03 The stack" width="100%" />
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,react,astro,rust,python,go,kubernetes,docker,linux,ansible,git&perline=11" alt="TypeScript, React, Astro, Rust, Python, Go, Kubernetes, Docker, Linux, Ansible, and Git" />
@@ -35,7 +35,7 @@ Right now I'm especially into practical **agentic systems**: figuring out how ag
   <img src="https://img.shields.io/badge/CNCF-326CE5?style=flat-square&logo=cncf&logoColor=white" alt="Cloud Native Computing Foundation" />
 </p>
 
-## <sub><sup>04</sup></sub> ◈ `selected signals`
+<img src="./assets/section-04.svg" alt="04 Selected projects" width="100%" />
 
 - **[Aimtrix](https://github.com/spencerrung/aimtrix)** — a self-hostable Matrix client built around real interoperability, privacy-conscious UX, and the chat features people actually expect.
 - **[breathe](https://breathe.alucard.dev)** — a private, beautiful paced-breathing guide for therapist-client work, built with a glowing Rust/WASM particle system.
@@ -43,7 +43,7 @@ Right now I'm especially into practical **agentic systems**: figuring out how ag
 - **homelab-k8s** — the GitOps home for the tiny arm64 cluster that keeps a surprising amount of the internet running.
 - **[alucard.dev](https://alucard.dev)** — my little corner of the web: projects, experiments, and the general transmission.
 
-## <sub><sup>05</sup></sub> ✦ `say hi`
+<img src="./assets/section-05.svg" alt="05 Say hi" width="100%" />
 
 The best place to find me is [alucard.dev](https://alucard.dev). If you're building something useful, self-hosted, agent-shaped, or cloud-native, we're probably already speaking the same language.
 
