@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="./assets/y2k-header.svg" alt="Spencer Rung — building on the weird web" width="100%" />
+  <img src="./assets/y2k-header.svg" alt="Spencer Rung — building software for real communities" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://alucard.dev">alucard.dev</a> &nbsp;✦&nbsp; building in public &nbsp;✦&nbsp; somewhere on the weird web
+  <a href="https://alucard.dev">alucard.dev</a> &nbsp;✦&nbsp; building in public &nbsp;✦&nbsp; self-hosted by default
 </p>
 
 ## `> hello, internet_`
 
-I'm Spencer — a full-stack developer and self-hosting enthusiast making useful, human-scale things for the web. I like the place where polished software, resilient infrastructure, and slightly-too-much visual personality overlap.
+I'm Spencer — a full-stack developer and self-hosting enthusiast making useful, human-scale things for the web. I like the place where polished software, resilient infrastructure, and care for the people using it overlap.
 
 Right now I'm especially into practical **agentic systems**: figuring out how agents can become capable collaborators instead of another disposable demo. I'm also deep in the **Kubernetes + CNCF** ecosystem, running real services for friends and family from a Raspberry Pi k3s homelab.
 
@@ -37,6 +37,7 @@ Right now I'm especially into practical **agentic systems**: figuring out how ag
 
 ## `selected signals`
 
+- **[Aimtrix](https://github.com/spencerrung/aimtrix)** — a self-hostable Matrix client built around real interoperability, privacy-conscious UX, and the chat features people actually expect.
 - **[breathe](https://breathe.alucard.dev)** — a private, beautiful paced-breathing guide for therapist-client work, built with a glowing Rust/WASM particle system.
 - **[therapyhours.net](https://therapyhours.net)** — a full-stack app for therapists tracking the supervised hours that lead to licensure.
 - **homelab-k8s** — the GitOps home for the tiny arm64 cluster that keeps a surprising amount of the internet running.

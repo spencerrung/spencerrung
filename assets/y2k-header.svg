@@ -1,5 +1,5 @@
 <svg width="1200" height="440" viewBox="0 0 1200 440" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
-  <title id="title">Spencer Rung — building on the weird web</title>
+  <title id="title">Spencer Rung — building software for real communities</title>
   <desc id="description">A glossy Y2K collage in pink, aqua, silver, and purple.</desc>
   <defs>
     <linearGradient id="bg" x1="30" y1="23" x2="1164" y2="424" gradientUnits="userSpaceOnUse"><stop stop-color="#FFB6E6"/><stop offset=".34" stop-color="#A4F6FF"/><stop offset=".7" stop-color="#9D84FF"/><stop offset="1" stop-color="#FA8DC9"/></linearGradient>
@@ -19,7 +19,7 @@
     <path d="M96 89h671" stroke="#9FFAFF" stroke-width="4" stroke-opacity=".8"/>
     <circle cx="116" cy="110" r="7" fill="#FF4EC8"/><circle cx="141" cy="110" r="7" fill="#F8FF72"/><circle cx="166" cy="110" r="7" fill="#62F6FF"/>
     <text x="112" y="183" fill="url(#chrome)" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="62" font-weight="900" letter-spacing="-3">SPENCER RUNG</text>
-    <text x="116" y="224" fill="#E8FFFF" font-family="monospace" font-size="16" letter-spacing="3.4">THE WEIRD WEB IS STILL WORTH BUILDING</text>
+    <text x="116" y="224" fill="#E8FFFF" font-family="monospace" font-size="16" letter-spacing="2.2">BUILDING SOFTWARE FOR REAL COMMUNITIES</text>
   </g>
   <g filter="url(#shadow)">
     <rect x="77" y="280" width="632" height="55" rx="27.5" fill="url(#pill)" stroke="white" stroke-width="3"/>
