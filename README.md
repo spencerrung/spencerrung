@@ -35,6 +35,17 @@ Right now I'm especially into practical **agentic systems**: figuring out how ag
   <img src="https://img.shields.io/badge/CNCF-326CE5?style=flat-square&logo=cncf&logoColor=white" alt="Cloud Native Computing Foundation" />
 </p>
 
+<p>
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" alt="Helm" />
+  <img src="https://img.shields.io/badge/Kustomize-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kustomize" />
+  <img src="https://img.shields.io/badge/cert--manager-002F6C?style=flat-square&logo=letsencrypt&logoColor=white" alt="cert-manager" />
+  <img src="https://img.shields.io/badge/External%20Secrets-FF6B35?style=flat-square" alt="External Secrets" />
+  <img src="https://img.shields.io/badge/Vault-FFEC6E?style=flat-square&logo=vault&logoColor=111827" alt="Vault" />
+  <img src="https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white" alt="Traefik" />
+  <img src="https://img.shields.io/badge/Tekton-FD495C?style=flat-square&logo=tekton&logoColor=white" alt="Tekton" />
+  <img src="https://img.shields.io/badge/Velero-0B3A53?style=flat-square" alt="Velero" />
+</p>
+
 <img src="./assets/section-04.svg" alt="04 Projects" width="100%" />
 
 - **[Aimtrix](https://github.com/spencerrung/aimtrix)** — a self-hostable Matrix client built around real interoperability, privacy-conscious UX, and the chat features people actually expect.
