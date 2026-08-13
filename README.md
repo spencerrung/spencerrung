@@ -6,13 +6,13 @@
   <a href="https://alucard.dev">alucard.dev</a> &nbsp;✦&nbsp; building in public &nbsp;✦&nbsp; self-hosted by default
 </p>
 
-<img src="./assets/section-01.svg" alt="01 Hello, internet" width="100%" />
+<img src="./assets/section-01.svg" alt="01 Hello" width="100%" />
 
 I'm Spencer — a full-stack developer and self-hosting enthusiast making useful, human-scale things for the web. I like the place where polished software, resilient infrastructure, and care for the people using it overlap.
 
 Right now I'm especially into practical **agentic systems**: figuring out how agents can become capable collaborators instead of another disposable demo. I'm also deep in the **Kubernetes + CNCF** ecosystem, running real services for friends and family from a Raspberry Pi k3s homelab.
 
-<img src="./assets/section-02.svg" alt="02 Currently transmitting" width="100%" />
+<img src="./assets/section-02.svg" alt="02 Building" width="100%" />
 
 | signal | what that means |
 | :-- | :-- |
@@ -35,7 +35,7 @@ Right now I'm especially into practical **agentic systems**: figuring out how ag
   <img src="https://img.shields.io/badge/CNCF-326CE5?style=flat-square&logo=cncf&logoColor=white" alt="Cloud Native Computing Foundation" />
 </p>
 
-<img src="./assets/section-04.svg" alt="04 Selected projects" width="100%" />
+<img src="./assets/section-04.svg" alt="04 Projects" width="100%" />
 
 - **[Aimtrix](https://github.com/spencerrung/aimtrix)** — a self-hostable Matrix client built around real interoperability, privacy-conscious UX, and the chat features people actually expect.
 - **[breathe](https://breathe.alucard.dev)** — a private, beautiful paced-breathing guide for therapist-client work, built with a glowing Rust/WASM particle system.
