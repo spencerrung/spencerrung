@@ -1,53 +1,45 @@
-<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
-  <title id="title">Spencer Rung — software, systems, and a little bit of stardust</title>
-  <desc id="description">A glossy Y2K inspired banner in midnight blue, cyan, pink, and lime.</desc>
+<svg width="1200" height="440" viewBox="0 0 1200 440" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
+  <title id="title">Spencer Rung — building on the weird web</title>
+  <desc id="description">A glossy Y2K collage in pink, aqua, silver, and purple.</desc>
   <defs>
-    <linearGradient id="sky" x1="70" y1="22" x2="1134" y2="344" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#05091A"/>
-      <stop offset=".48" stop-color="#17114A"/>
-      <stop offset="1" stop-color="#380C4A"/>
-    </linearGradient>
-    <linearGradient id="chrome" x1="280" y1="76" x2="840" y2="279" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#FFFFFF"/>
-      <stop offset=".18" stop-color="#8DF6FF"/>
-      <stop offset=".5" stop-color="#F4F5FF"/>
-      <stop offset=".72" stop-color="#FF8BDF"/>
-      <stop offset="1" stop-color="#70FFE1"/>
-    </linearGradient>
-    <radialGradient id="orb" cx="0" cy="0" r="1" gradientTransform="translate(1001 98) rotate(130) scale(149 149)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#F8FFFF"/>
-      <stop offset=".3" stop-color="#78F7FF"/>
-      <stop offset=".68" stop-color="#D03EFF"/>
-      <stop offset="1" stop-color="#33106A"/>
-    </radialGradient>
-    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
-      <feGaussianBlur stdDeviation="7" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="8" stdDeviation="6" flood-color="#02030D" flood-opacity=".6"/>
-    </filter>
+    <linearGradient id="bg" x1="30" y1="23" x2="1164" y2="424" gradientUnits="userSpaceOnUse"><stop stop-color="#FFB6E6"/><stop offset=".34" stop-color="#A4F6FF"/><stop offset=".7" stop-color="#9D84FF"/><stop offset="1" stop-color="#FA8DC9"/></linearGradient>
+    <linearGradient id="chrome" x1="95" y1="92" x2="802" y2="252" gradientUnits="userSpaceOnUse"><stop stop-color="#fff"/><stop offset=".17" stop-color="#7689A9"/><stop offset=".36" stop-color="#fff"/><stop offset=".56" stop-color="#89FFFF"/><stop offset=".77" stop-color="#fff"/><stop offset="1" stop-color="#AD78D5"/></linearGradient>
+    <linearGradient id="pill" x1="82" y1="264" x2="812" y2="333" gradientUnits="userSpaceOnUse"><stop stop-color="#FF3EC8"/><stop offset=".45" stop-color="#7B52D2"/><stop offset="1" stop-color="#00B3FF"/></linearGradient>
+    <radialGradient id="disc" cx="0" cy="0" r="1" gradientTransform="translate(990 205) rotate(134) scale(136)" gradientUnits="userSpaceOnUse"><stop stop-color="#FFF"/><stop offset=".08" stop-color="#5CDAFF"/><stop offset=".23" stop-color="#DCFEFF"/><stop offset=".43" stop-color="#F54ECD"/><stop offset=".63" stop-color="#7236BE"/><stop offset=".82" stop-color="#101547"/><stop offset="1" stop-color="#F3FAFF"/></radialGradient>
+    <pattern id="sparkles" width="85" height="74" patternUnits="userSpaceOnUse"><circle cx="11" cy="13" r="1.5" fill="white"/><path d="M58 43v13m-6.5-6.5h13" stroke="#F7FF73" stroke-width="2" stroke-linecap="round"/><circle cx="76" cy="9" r="1" fill="#E330C8"/></pattern>
+    <filter id="shadow" x="-25%" y="-25%" width="150%" height="160%"><feDropShadow dx="0" dy="9" stdDeviation="7" flood-color="#5B167A" flood-opacity=".38"/></filter>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="4" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
   </defs>
-  <rect width="1200" height="360" rx="28" fill="url(#sky)"/>
-  <path d="M-70 318C120 187 226 413 413 280C587 157 688 355 871 238C1032 135 1140 175 1282 83" stroke="#00E5FF" stroke-opacity=".28" stroke-width="2"/>
-  <path d="M-83 342C119 211 222 428 417 304C592 190 696 378 874 260C1023 162 1135 199 1270 114" stroke="#FF3DB5" stroke-opacity=".22" stroke-width="2"/>
-  <g fill="#D7FAFF" filter="url(#glow)">
-    <circle cx="73" cy="77" r="2"/><circle cx="154" cy="130" r="2"/><circle cx="263" cy="47" r="1.5"/><circle cx="460" cy="63" r="2"/><circle cx="752" cy="45" r="1.5"/><circle cx="1079" cy="270" r="2"/><circle cx="1134" cy="44" r="1.5"/>
-  </g>
-  <g stroke="#A6FF00" stroke-width="2" stroke-linecap="round" filter="url(#glow)">
-    <path d="M99 222v20m-10-10h20"/><path d="M708 257v18m-9-9h18"/><path d="M1122 186v16m-8-8h16"/>
+  <rect width="1200" height="440" rx="30" fill="url(#bg)"/>
+  <rect width="1200" height="440" rx="30" fill="url(#sparkles)" opacity=".92"/>
+  <path d="M-30 103C188 14 306 175 494 94C675 15 852 112 1234 3" stroke="white" stroke-opacity=".58" stroke-width="3"/>
+  <path d="M-16 374C223 282 367 445 588 345C817 240 1007 421 1221 306" stroke="#FFF" stroke-opacity=".5" stroke-width="3"/>
+  <g filter="url(#shadow)">
+    <path d="M78 68h705l-15 194H96z" fill="#35205F" fill-opacity=".86" stroke="#fff" stroke-width="3"/>
+    <path d="M96 89h671" stroke="#9FFAFF" stroke-width="4" stroke-opacity=".8"/>
+    <circle cx="116" cy="110" r="7" fill="#FF4EC8"/><circle cx="141" cy="110" r="7" fill="#F8FF72"/><circle cx="166" cy="110" r="7" fill="#62F6FF"/>
+    <text x="112" y="183" fill="url(#chrome)" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="62" font-weight="900" letter-spacing="-3">SPENCER RUNG</text>
+    <text x="116" y="224" fill="#E8FFFF" font-family="monospace" font-size="16" letter-spacing="3.4">THE WEIRD WEB IS STILL WORTH BUILDING</text>
   </g>
   <g filter="url(#shadow)">
-    <circle cx="1002" cy="98" r="89" fill="url(#orb)" stroke="#A6FF00" stroke-opacity=".8" stroke-width="2"/>
-    <ellipse cx="972" cy="66" rx="37" ry="17" transform="rotate(-31 972 66)" fill="#fff" fill-opacity=".58"/>
-    <path d="M900 193C949 160 1025 160 1090 194" stroke="#FF98E4" stroke-width="3" stroke-linecap="round"/>
-    <path d="M920 204C967 177 1033 178 1070 204" stroke="#00E5FF" stroke-opacity=".8" stroke-width="2" stroke-linecap="round"/>
+    <rect x="77" y="280" width="632" height="55" rx="27.5" fill="url(#pill)" stroke="white" stroke-width="3"/>
+    <ellipse cx="391" cy="290" rx="277" ry="9" fill="white" fill-opacity=".34"/>
+    <text x="109" y="314" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="1.7">SOFTWARE · SYSTEMS · STARDUST · ALUCARD.DEV</text>
   </g>
   <g filter="url(#shadow)">
-    <text x="82" y="145" fill="url(#chrome)" font-family="Arial, Helvetica, sans-serif" font-size="61" font-weight="900" letter-spacing="-2">SPENCER RUNG</text>
-    <text x="86" y="191" fill="#D7F0F7" font-family="monospace" font-size="18" letter-spacing="2.7">SOFTWARE · SYSTEMS · STARDUST</text>
-    <rect x="84" y="223" width="461" height="38" rx="19" fill="#070C20" fill-opacity=".72" stroke="#00E5FF" stroke-opacity=".58"/>
-    <text x="105" y="248" fill="#A6FF00" font-family="monospace" font-size="15" letter-spacing="1">BUILDING HUMAN-SCALE INTERNET THINGS</text>
+    <circle cx="988" cy="203" r="120" fill="url(#disc)" stroke="white" stroke-width="5"/>
+    <circle cx="988" cy="203" r="85" stroke="#A6FF00" stroke-opacity=".78" stroke-width="3"/>
+    <circle cx="988" cy="203" r="37" fill="#1C185B" stroke="#F8FEFF" stroke-width="5"/>
+    <circle cx="988" cy="203" r="10" fill="#F7FF73"/>
+    <path d="M897 142C930 105 1006 84 1065 117" stroke="white" stroke-width="11" stroke-linecap="round" stroke-opacity=".58"/>
   </g>
-  <text x="84" y="309" fill="#A9C8DD" font-family="monospace" font-size="13">alucard.dev  //  est. somewhere between the web and the weird</text>
+  <g transform="rotate(-11 801 342)" filter="url(#shadow)">
+    <rect x="738" y="310" width="187" height="61" rx="12" fill="#F7FF73" stroke="#382052" stroke-width="3"/>
+    <text x="759" y="347" fill="#382052" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="18" font-weight="900">ONLINE ✦</text>
+  </g>
+  <g transform="rotate(8 1037 346)" filter="url(#shadow)">
+    <rect x="970" y="322" width="151" height="53" rx="25" fill="#FF55C5" stroke="white" stroke-width="3"/>
+    <text x="1000" y="355" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">v.2026</text>
+  </g>
+  <text x="80" y="403" fill="#382052" font-family="monospace" font-size="14" font-weight="700">// powered by curiosity, caffeine &amp; home servers</text>
 </svg>

@@ -1,11 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/spencerrung/spencerrung/main/assets/y2k-header.svg" alt="Spencer Rung — software, systems, and a little bit of stardust" width="100%" />
+  <img src="./assets/y2k-header.svg" alt="Spencer Rung — building on the weird web" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://alucard.dev"><img src="https://img.shields.io/badge/alucard.dev-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=06101A" alt="alucard.dev" /></a>
-  <img src="https://img.shields.io/badge/mode-building%20in%20public-FF3DB5?style=for-the-badge" alt="building in public" />
-  <img src="https://img.shields.io/badge/location-the%20weird%20web-A6FF00?style=for-the-badge" alt="the weird web" />
+  <a href="https://alucard.dev">alucard.dev</a> &nbsp;✦&nbsp; building in public &nbsp;✦&nbsp; somewhere on the weird web
 </p>
 
 ## `> hello, internet_`
@@ -23,7 +21,7 @@ Right now I'm especially into practical **agentic systems**: figuring out how ag
 | `software for humans` | therapy tools, calm little web experiences, and other projects that earn their place in someone's day |
 | `rust + wasm` | making vivid browser experiences with framework-free TypeScript and Rust-powered physics |
 
-## `the toolkit`
+## `the stack in my backpack`
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,react,astro,rust,python,go,kubernetes,docker,linux,ansible,git&perline=11" alt="TypeScript, React, Astro, Rust, Python, Go, Kubernetes, Docker, Linux, Ansible, and Git" />
