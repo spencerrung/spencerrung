@@ -1,0 +1,27 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
+  <title id="title">Spencer Rung — software, systems, self-hosted</title>
+  <desc id="description">A dark retro-futurist header with cyan, pink, and lime details.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse"><stop stop-color="#12071F"/><stop offset=".48" stop-color="#1B0A2E"/><stop offset="1" stop-color="#0A1730"/></linearGradient>
+    <linearGradient id="type" x1="84" y1="78" x2="690" y2="144" gradientUnits="userSpaceOnUse"><stop stop-color="#FF3EC8"/><stop offset=".47" stop-color="#FFF6A9"/><stop offset="1" stop-color="#00B3FF"/></linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(1010 124) rotate(90) scale(124 238)" gradientUnits="userSpaceOnUse"><stop stop-color="#00B3FF" stop-opacity=".2"/><stop offset=".55" stop-color="#FF3EC8" stop-opacity=".08"/><stop offset="1" stop-color="#1B0A2E" stop-opacity="0"/></radialGradient>
+    <pattern id="lines" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M0 42 42 0" stroke="#00B3FF" stroke-opacity=".07"/></pattern>
+    <filter id="soft-glow" x="-20%" y="-80%" width="140%" height="260%"><feGaussianBlur stdDeviation="4" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="260" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="260" rx="24" fill="url(#lines)"/>
+  <rect width="1200" height="260" rx="24" fill="url(#glow)"/>
+  <path d="M0 207C161 138 286 250 444 178C598 108 699 229 855 155C1015 79 1099 127 1200 81" stroke="#00B3FF" stroke-opacity=".38" stroke-width="2"/>
+  <path d="M0 226C174 161 282 259 455 196C605 142 706 244 864 174C1018 106 1090 149 1200 112" stroke="#FF3EC8" stroke-opacity=".3" stroke-width="2"/>
+  <g fill="#D8FCFF"><circle cx="77" cy="53" r="2"/><circle cx="263" cy="31" r="1.5"/><circle cx="726" cy="41" r="1.5"/><circle cx="1094" cy="62" r="2"/><circle cx="1149" cy="184" r="1.5"/></g>
+  <g stroke="#A6FF00" stroke-width="2" stroke-linecap="round" filter="url(#soft-glow)"><path d="M814 81v18m-9-9h18"/><path d="M1063 183v16m-8-8h16"/><path d="M928 48v12m-6-6h12"/></g>
+  <path d="M78 57h7v-7h4v7h7v4h-7v7h-4v-7h-7z" fill="#FF3EC8" filter="url(#soft-glow)"/>
+  <text x="80" y="124" fill="url(#type)" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="58" font-weight="900" letter-spacing="-2">SPENCER RUNG</text>
+  <text x="84" y="158" fill="#D7F0F7" font-family="monospace" font-size="15" letter-spacing="2.2">SOFTWARE  /  SYSTEMS  /  SELF-HOSTED</text>
+  <rect x="82" y="183" width="389" height="31" rx="4" fill="#26113E" stroke="#FF3EC8" stroke-opacity=".7"/>
+  <circle cx="99" cy="198.5" r="4" fill="#A6FF00"/>
+  <text x="112" y="203" fill="#FFF6A9" font-family="monospace" font-size="12" letter-spacing="1.2">SELF-HOSTED BY DEFAULT</text>
+  <path d="M816 64h262v119H816z" stroke="#00B3FF" stroke-opacity=".42"/>
+  <path d="M831 80h112" stroke="#FF3EC8" stroke-width="3"/><path d="M831 96h187" stroke="#A6FF00" stroke-opacity=".7" stroke-width="2"/><path d="M831 111h150" stroke="#00B3FF" stroke-opacity=".7" stroke-width="2"/><path d="M831 126h203" stroke="#FF3EC8" stroke-opacity=".45" stroke-width="2"/>
+  <text x="831" y="159" fill="#D7F0F7" font-family="monospace" font-size="11">status: building</text>
+</svg>

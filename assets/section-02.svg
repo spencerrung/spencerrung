@@ -1,0 +1,7 @@
+<svg width="760" height="46" viewBox="0 0 760 46" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="02 Building">
+  <rect x="1" y="1" width="758" height="44" rx="5" fill="#1B0A2E" stroke="#00B3FF" stroke-opacity=".7"/>
+  <path d="M15 23h24" stroke="#00B3FF" stroke-width="3"/><circle cx="48" cy="23" r="5" fill="#A6FF00"/>
+  <text x="65" y="29" fill="#00B3FF" font-family="monospace" font-size="13" font-weight="700" letter-spacing="2">02</text>
+  <text x="111" y="30" fill="#FDF3FF" font-family="monospace" font-size="19" font-weight="700">building_</text>
+  <path d="M230 23h514" stroke="#FF3EC8" stroke-opacity=".5"/><circle cx="728" cy="23" r="4" fill="#FF3EC8"/>
+</svg>
