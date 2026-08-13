@@ -1,45 +1,27 @@
-<svg width="1200" height="440" viewBox="0 0 1200 440" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
-  <title id="title">Spencer Rung — building software for real communities</title>
-  <desc id="description">A glossy Y2K collage in pink, aqua, silver, and purple.</desc>
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
+  <title id="title">Spencer Rung — software, systems, stardust</title>
+  <desc id="description">A dark retro-futurist header with cyan, pink, and lime details.</desc>
   <defs>
-    <linearGradient id="bg" x1="30" y1="23" x2="1164" y2="424" gradientUnits="userSpaceOnUse"><stop stop-color="#FFB6E6"/><stop offset=".34" stop-color="#A4F6FF"/><stop offset=".7" stop-color="#9D84FF"/><stop offset="1" stop-color="#FA8DC9"/></linearGradient>
-    <linearGradient id="chrome" x1="95" y1="92" x2="802" y2="252" gradientUnits="userSpaceOnUse"><stop stop-color="#fff"/><stop offset=".17" stop-color="#7689A9"/><stop offset=".36" stop-color="#fff"/><stop offset=".56" stop-color="#89FFFF"/><stop offset=".77" stop-color="#fff"/><stop offset="1" stop-color="#AD78D5"/></linearGradient>
-    <linearGradient id="pill" x1="82" y1="264" x2="812" y2="333" gradientUnits="userSpaceOnUse"><stop stop-color="#FF3EC8"/><stop offset=".45" stop-color="#7B52D2"/><stop offset="1" stop-color="#00B3FF"/></linearGradient>
-    <radialGradient id="disc" cx="0" cy="0" r="1" gradientTransform="translate(990 205) rotate(134) scale(136)" gradientUnits="userSpaceOnUse"><stop stop-color="#FFF"/><stop offset=".08" stop-color="#5CDAFF"/><stop offset=".23" stop-color="#DCFEFF"/><stop offset=".43" stop-color="#F54ECD"/><stop offset=".63" stop-color="#7236BE"/><stop offset=".82" stop-color="#101547"/><stop offset="1" stop-color="#F3FAFF"/></radialGradient>
-    <pattern id="sparkles" width="85" height="74" patternUnits="userSpaceOnUse"><circle cx="11" cy="13" r="1.5" fill="white"/><path d="M58 43v13m-6.5-6.5h13" stroke="#F7FF73" stroke-width="2" stroke-linecap="round"/><circle cx="76" cy="9" r="1" fill="#E330C8"/></pattern>
-    <filter id="shadow" x="-25%" y="-25%" width="150%" height="160%"><feDropShadow dx="0" dy="9" stdDeviation="7" flood-color="#5B167A" flood-opacity=".38"/></filter>
-    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="4" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse"><stop stop-color="#12071F"/><stop offset=".48" stop-color="#1B0A2E"/><stop offset="1" stop-color="#0A1730"/></linearGradient>
+    <linearGradient id="type" x1="84" y1="78" x2="690" y2="144" gradientUnits="userSpaceOnUse"><stop stop-color="#FF3EC8"/><stop offset=".47" stop-color="#FFF6A9"/><stop offset="1" stop-color="#00B3FF"/></linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(1010 124) rotate(90) scale(124 238)" gradientUnits="userSpaceOnUse"><stop stop-color="#00B3FF" stop-opacity=".2"/><stop offset=".55" stop-color="#FF3EC8" stop-opacity=".08"/><stop offset="1" stop-color="#1B0A2E" stop-opacity="0"/></radialGradient>
+    <pattern id="lines" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M0 42 42 0" stroke="#00B3FF" stroke-opacity=".07"/></pattern>
+    <filter id="soft-glow" x="-20%" y="-80%" width="140%" height="260%"><feGaussianBlur stdDeviation="4" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
   </defs>
-  <rect width="1200" height="440" rx="30" fill="url(#bg)"/>
-  <rect width="1200" height="440" rx="30" fill="url(#sparkles)" opacity=".92"/>
-  <path d="M-30 103C188 14 306 175 494 94C675 15 852 112 1234 3" stroke="white" stroke-opacity=".58" stroke-width="3"/>
-  <path d="M-16 374C223 282 367 445 588 345C817 240 1007 421 1221 306" stroke="#FFF" stroke-opacity=".5" stroke-width="3"/>
-  <g filter="url(#shadow)">
-    <path d="M78 68h705l-15 194H96z" fill="#35205F" fill-opacity=".86" stroke="#fff" stroke-width="3"/>
-    <path d="M96 89h671" stroke="#9FFAFF" stroke-width="4" stroke-opacity=".8"/>
-    <circle cx="116" cy="110" r="7" fill="#FF4EC8"/><circle cx="141" cy="110" r="7" fill="#F8FF72"/><circle cx="166" cy="110" r="7" fill="#62F6FF"/>
-    <text x="112" y="183" fill="url(#chrome)" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="62" font-weight="900" letter-spacing="-3">SPENCER RUNG</text>
-    <text x="116" y="224" fill="#E8FFFF" font-family="monospace" font-size="16" letter-spacing="2.2">BUILDING SOFTWARE FOR REAL COMMUNITIES</text>
-  </g>
-  <g filter="url(#shadow)">
-    <rect x="77" y="280" width="632" height="55" rx="27.5" fill="url(#pill)" stroke="white" stroke-width="3"/>
-    <ellipse cx="391" cy="290" rx="277" ry="9" fill="white" fill-opacity=".34"/>
-    <text x="109" y="314" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="1.7">SOFTWARE · SYSTEMS · STARDUST · ALUCARD.DEV</text>
-  </g>
-  <g filter="url(#shadow)">
-    <circle cx="988" cy="203" r="120" fill="url(#disc)" stroke="white" stroke-width="5"/>
-    <circle cx="988" cy="203" r="85" stroke="#A6FF00" stroke-opacity=".78" stroke-width="3"/>
-    <circle cx="988" cy="203" r="37" fill="#1C185B" stroke="#F8FEFF" stroke-width="5"/>
-    <circle cx="988" cy="203" r="10" fill="#F7FF73"/>
-    <path d="M897 142C930 105 1006 84 1065 117" stroke="white" stroke-width="11" stroke-linecap="round" stroke-opacity=".58"/>
-  </g>
-  <g transform="rotate(-11 801 342)" filter="url(#shadow)">
-    <rect x="738" y="310" width="187" height="61" rx="12" fill="#F7FF73" stroke="#382052" stroke-width="3"/>
-    <text x="759" y="347" fill="#382052" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="18" font-weight="900">ONLINE ✦</text>
-  </g>
-  <g transform="rotate(8 1037 346)" filter="url(#shadow)">
-    <rect x="970" y="322" width="151" height="53" rx="25" fill="#FF55C5" stroke="white" stroke-width="3"/>
-    <text x="1000" y="355" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">v.2026</text>
-  </g>
-  <text x="80" y="403" fill="#382052" font-family="monospace" font-size="14" font-weight="700">// powered by curiosity, caffeine &amp; home servers</text>
+  <rect width="1200" height="260" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="260" rx="24" fill="url(#lines)"/>
+  <rect width="1200" height="260" rx="24" fill="url(#glow)"/>
+  <path d="M0 207C161 138 286 250 444 178C598 108 699 229 855 155C1015 79 1099 127 1200 81" stroke="#00B3FF" stroke-opacity=".38" stroke-width="2"/>
+  <path d="M0 226C174 161 282 259 455 196C605 142 706 244 864 174C1018 106 1090 149 1200 112" stroke="#FF3EC8" stroke-opacity=".3" stroke-width="2"/>
+  <g fill="#D8FCFF"><circle cx="77" cy="53" r="2"/><circle cx="263" cy="31" r="1.5"/><circle cx="726" cy="41" r="1.5"/><circle cx="1094" cy="62" r="2"/><circle cx="1149" cy="184" r="1.5"/></g>
+  <g stroke="#A6FF00" stroke-width="2" stroke-linecap="round" filter="url(#soft-glow)"><path d="M814 81v18m-9-9h18"/><path d="M1063 183v16m-8-8h16"/><path d="M928 48v12m-6-6h12"/></g>
+  <path d="M78 57h7v-7h4v7h7v4h-7v7h-4v-7h-7z" fill="#FF3EC8" filter="url(#soft-glow)"/>
+  <text x="80" y="124" fill="url(#type)" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="58" font-weight="900" letter-spacing="-2">SPENCER RUNG</text>
+  <text x="84" y="158" fill="#D7F0F7" font-family="monospace" font-size="15" letter-spacing="2.8">SOFTWARE  /  SYSTEMS  /  STARDUST</text>
+  <rect x="82" y="183" width="389" height="31" rx="4" fill="#26113E" stroke="#FF3EC8" stroke-opacity=".7"/>
+  <circle cx="99" cy="198.5" r="4" fill="#A6FF00"/>
+  <text x="112" y="203" fill="#FFF6A9" font-family="monospace" font-size="12" letter-spacing="1.2">SELF-HOSTED BY DEFAULT</text>
+  <path d="M816 64h262v119H816z" stroke="#00B3FF" stroke-opacity=".42"/>
+  <path d="M831 80h112" stroke="#FF3EC8" stroke-width="3"/><path d="M831 96h187" stroke="#A6FF00" stroke-opacity=".7" stroke-width="2"/><path d="M831 111h150" stroke="#00B3FF" stroke-opacity=".7" stroke-width="2"/><path d="M831 126h203" stroke="#FF3EC8" stroke-opacity=".45" stroke-width="2"/>
+  <text x="831" y="159" fill="#D7F0F7" font-family="monospace" font-size="11">status: building</text>
 </svg>
