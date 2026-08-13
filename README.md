@@ -3,22 +3,24 @@
 </p>
 
 <p align="center">
-  <a href="https://alucard.dev">alucard.dev</a> &nbsp;✦&nbsp; building in public &nbsp;✦&nbsp; self-hosted by default
+  <a href="https://alucard.dev">alucard.dev</a> &nbsp;✦&nbsp; self-hosted by default
 </p>
 
 <img src="./assets/section-01.svg" alt="01 Hello" width="100%" />
 
-I'm Spencer — a full-stack developer and self-hosting enthusiast making useful, human-scale things for the web. I like the place where polished software, resilient infrastructure, and care for the people using it overlap.
+I'm Spencer a developer and self-hosting enthusiast making useful and less useful thing to pollute my homelab with.
 
-Right now I'm especially into practical **agentic systems**: figuring out how agents can become capable collaborators instead of another disposable demo. I'm also deep in the **Kubernetes + CNCF** ecosystem, running real services for friends and family from a Raspberry Pi k3s homelab.
+Right now I'm also figuring out how agents and "agentic" solutions can become capable infrastructure components instead of another disposable demo. 
+
+I'm also deep in the **Kubernetes + CNCF** ecosystem, running real services for myself and friends from some Raspberry Pi's in my basement.
 
 <img src="./assets/section-02.svg" alt="02 Building" width="100%" />
 
 | signal | what that means |
 | :-- | :-- |
 | `agentic experiments` | building and learning alongside agents that remember, adapt, and do real work |
-| `homelab control room` | GitOps on a 9-node Raspberry Pi k3s cluster with Flux, Vault, monitoring, and a growing constellation of services |
-| `software for humans` | therapy tools, calm little web experiences, and other projects that earn their place in someone's day |
+| `homelab` | GitOps on a 9-node Raspberry Pi k3s cluster with Flux, Vault, monitoring, and a growing constellation of services |
+| `software for humans` | tools for therapists working on their licensure and continuing education |
 | `rust + wasm` | making vivid browser experiences with framework-free TypeScript and Rust-powered physics |
 
 <img src="./assets/section-03.svg" alt="03 The stack" width="100%" />
@@ -50,14 +52,12 @@ Right now I'm especially into practical **agentic systems**: figuring out how ag
 
 - **[Aimtrix](https://github.com/spencerrung/aimtrix)** — a self-hostable Matrix client built around real interoperability, privacy-conscious UX, and the chat features people actually expect.
 - **[breathe](https://breathe.alucard.dev)** — a private, beautiful paced-breathing guide for therapist-client work, built with a glowing Rust/WASM particle system.
-- **[therapyhours.net](https://therapyhours.net)** — a full-stack app for therapists tracking the supervised hours that lead to licensure.
-- **homelab-k8s** — the GitOps home for the tiny arm64 cluster that keeps a surprising amount of the internet running.
+- **[therapyhours.net](https://therapyhours.net)** — an app for therapists tracking the supervised hours that lead to licensure.
+- **homelab-k8s** — the GitOps repo for my homelab.
 - **[alucard.dev](https://alucard.dev)** — my little corner of the web: projects, experiments, and the general transmission.
 
 <img src="./assets/section-05.svg" alt="05 Say hi" width="100%" />
 
-The best place to find me is [alucard.dev](https://alucard.dev). If you're building something useful, self-hosted, agent-shaped, or cloud-native, we're probably already speaking the same language.
-
+The best place to find me is...
 <p align="center">
-  <sub>made with care, caffeine, and an unreasonable amount of terminal glow ✦</sub>
 </p>
