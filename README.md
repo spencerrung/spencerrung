@@ -57,7 +57,11 @@ I'm also deep in the **Kubernetes + CNCF** ecosystem, running real services for 
 - **[alucard.dev](https://alucard.dev)** — my little web page.
 
 <img src="./assets/section-05.svg" alt="05 Say hi" width="100%" />
+<p>
+  Matrix: @spencer:alucard.dev
+</p>
+<p>
+  Discord: ._spencer
+</p>
 
-The best place to find me is...
-<p align="center">
 </p>
