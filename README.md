@@ -58,10 +58,14 @@ I'm also deep in the **Kubernetes + CNCF** ecosystem, running real services for 
 
 <img src="./assets/section-05.svg" alt="05 Say hi" width="100%" />
 <p>
-  Matrix: @spencer:alucard.dev
+  <a href="https://matrix.to/#/@spencer:alucard.dev">
+    <img src="https://img.shields.io/badge/-0DBD8B?style=flat-square&logo=matrix&logoColor=white" alt="Matrix" />
+  </a>
+  @spencer:alucard.dev
 </p>
 <p>
-  Discord: ._spencer
+  <img src="https://img.shields.io/badge/-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
+  ._spencer
 </p>
 
 </p>
